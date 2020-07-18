@@ -1,16 +1,31 @@
-# filgs_empresa_legal
+<h1>filgs_empresa_legal</h1>
 
-filgs_empresa_legal
+<h4>
+<p>
+  Olá amigos esse simples app faz parte de uma serie de videos que estou produzindo para o youtube e ajudar a todos que estão começando com flutter. 
+  </p>
+</h4>
 
-## Getting Started
+<ul>
+  <li>
+    <img src="https://raw.githubusercontent.com/rafapil/Imagens/master/Filgs_empresa_legal/Screen%20Shot%202020-07-18%20at%2016.30.35.png">
+    </li>
+  
+  <li>
+    <img src="https://raw.githubusercontent.com/rafapil/Imagens/master/Filgs_empresa_legal/Screen%20Shot%202020-07-18%20at%2016.30.58.png">
+    </li>
+    
+    <li>
+    <img src="https://raw.githubusercontent.com/rafapil/Imagens/master/Filgs_empresa_legal/Screen%20Shot%202020-07-18%20at%2016.31.09.png">
+    </li>
+    
+    <li>
+    <img src="https://raw.githubusercontent.com/rafapil/Imagens/master/Filgs_empresa_legal/Screen%20Shot%202020-07-18%20at%2016.31.20.png">
+    </li>
+    
+    <li>
+    <img src="https://raw.githubusercontent.com/rafapil/Imagens/master/Filgs_empresa_legal/Screen%20Shot%202020-07-18%20at%2016.31.52.png">
+    </li>
+  
+  </ul>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
