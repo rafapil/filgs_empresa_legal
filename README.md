@@ -9,23 +9,18 @@
 <ul>
   <li>
     <img src="https://raw.githubusercontent.com/rafapil/Imagens/master/Filgs_empresa_legal/Screen%20Shot%202020-07-18%20at%2016.30.35.png">
-    </li>
-  
+  </li>
   <li>
     <img src="https://raw.githubusercontent.com/rafapil/Imagens/master/Filgs_empresa_legal/Screen%20Shot%202020-07-18%20at%2016.30.58.png">
-    </li>
-    
-    <li>
+  </li>
+  <li>
     <img src="https://raw.githubusercontent.com/rafapil/Imagens/master/Filgs_empresa_legal/Screen%20Shot%202020-07-18%20at%2016.31.09.png">
-    </li>
-    
-    <li>
+  </li>
+  <li>
     <img src="https://raw.githubusercontent.com/rafapil/Imagens/master/Filgs_empresa_legal/Screen%20Shot%202020-07-18%20at%2016.31.20.png">
-    </li>
-    
-    <li>
+  </li>
+  <li>
     <img src="https://raw.githubusercontent.com/rafapil/Imagens/master/Filgs_empresa_legal/Screen%20Shot%202020-07-18%20at%2016.31.52.png">
-    </li>
-  
-  </ul>
+  </li>
+</ul>
 
